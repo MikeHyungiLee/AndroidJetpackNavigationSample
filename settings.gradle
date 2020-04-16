@@ -1,0 +1,2 @@
+rootProject.name='AndroidJetpackNavigationSample'
+include ':app'
